@@ -1,0 +1,5 @@
+m=audio 6664 RTP/AVP 8
+a=rtpmap:8 pcma/8000/1
+a=ptime:40
+a=framerate:25
+c=IN IP4 192.168.2.105
